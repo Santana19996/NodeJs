@@ -1,7 +1,7 @@
 const fs = require("fs");
 const http = require("http");
 const url = require("url");
-const replaceTemplate = require("./modules/replaceTemplate");
+const replaceTemplate = require("/Users/oscarsantana/nodeStarter/dev-data/modules/replaceTemplate.js");
 
 // ------------Files---------------------------------
 
